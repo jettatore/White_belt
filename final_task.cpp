@@ -32,7 +32,7 @@ public:
 	int GetDay() const {
 		return Day;
 	}
-
+	
 private:
 	int Year;
 	int Month;
